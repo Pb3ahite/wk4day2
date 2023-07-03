@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Inclassday2",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "my_database",
+            "connectString": "postgres://mnnnvxbv:vq718uTrgcAoFEroFpD8rrVV-Lw85_sL@mahmud.db.elephantsql.com/mnnnvxbv"
+        }
+    ]
+}
